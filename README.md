@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NLP, Angular.
 - 👯 I’m looking to collaborate on any project related to data science or frontend development.
 - 🤔 I’m looking for an internship.
-- 📫 How to reach me: alihasanat427@yahoo.com
+- 📫 How to reach me: alihasanat72@gmail.com
 - ⚡ Fun fact: love photogrpahy, solo travel, and Gym one of my leisure activities... Und ich spreche Deutsch, yo Hablo espanol y Ingles এবং বাংলা 
 
 
