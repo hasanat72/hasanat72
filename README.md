@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my masters thesis.
 - 🌱 Interested in NLP, Angular.
-- 👯 I’m looking to collaborate on any project related to user experience and design.
+- 👯 Have experience with user experience and design.
 - 🤔 I’m looking for a full time role
 - 💭 I can build chatbot in Tidio and Engati.
 - 📫 How to reach me: alihasanat72@gmail.com
