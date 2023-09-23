@@ -1,11 +1,11 @@
 ### Hi there! I am Ali 👋
 
-- 🔭 I’m currently working on my masters thesis.
-- 🌱 Interested in NLP, Angular.
-- 👯 Have experience with user experience and design.
-- 🤔 I’m looking for a full time role
-- 💭 I can build chatbot in Tidio and Engati.
-- 📫 How to reach me: alihasanat72@gmail.com
+- 🔭 Working as a Research Assistant@HHL; HCI@Siegen
+- 🌱 Interested in affective computing, socio-informatics, digital transformation
+- 👯 Have experience with UCD, UX/UI.
+- 🤔 
+- 💭 
+- 📫 
 - ⚡ Fun fact: love photogrpahy, solo travel, and Gym one of my leisure activities... Und ich spreche Deutsch, yo Hablo espanol y Ingles এবং বাংলা 
 
 
