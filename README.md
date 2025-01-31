@@ -2,11 +2,9 @@
 
 - 🔭 Working as a Research Assistant@HHL; HCI@Siegen
 - 🌱 Interested in affective computing, socio-informatics, digital transformation
-- 👯 Have experience with UCD, UX/UI.
-- 🤔 
-- 💭 
-- 📫 
-- ⚡ Fun fact: love photogrpahy, solo travel, and Gym one of my leisure activities... Und ich spreche Deutsch, yo Hablo espanol y Ingles এবং বাংলা 
+- 👯 Have experience with UCD, UX/UI. 
+- ⚡ Leisure: cycling, photography, hobbyist book readier (non-fiction, psychology, history)
+- 🗣️ speaks: English, Bengali, Deutsch, nur bisched Spanisch und Russisch
 
 
 <!--
