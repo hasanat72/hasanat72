@@ -4,7 +4,7 @@
 - 🌱 Interested in affective computing, socio-informatics, digital transformation
 - 👯 Have experience with UCD, UX/UI. 
 - ⚡ Leisure: cycling, photography, hobbyist book readier (non-fiction, psychology, history)
-- 🗣️ speaks: English, Bengali, Deutsch, nur bisched Spanisch und Russisch
+- 🗣️ speaks: English, Bengali, Deutsch, nur bischen Spanisch und Russisch
 
 
 <!--
